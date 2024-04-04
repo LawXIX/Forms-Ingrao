@@ -9,7 +9,7 @@ import { TemplateDrivenComponent } from './components/template-driven/template-d
 @NgModule({
   declarations: [
     AppComponent,
-    ReactiveFormsComponent,
+    
     TemplateDrivenComponent
   ],
   imports: [
